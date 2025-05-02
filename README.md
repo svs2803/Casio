@@ -1,2 +1,2 @@
-# Casio
+# Casino
 Casino slot game 
